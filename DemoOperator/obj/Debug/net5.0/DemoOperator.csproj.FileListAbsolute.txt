@@ -1,0 +1,16 @@
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoOperator\bin\Debug\net5.0\DemoOperator.exe
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoOperator\bin\Debug\net5.0\DemoOperator.deps.json
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoOperator\bin\Debug\net5.0\DemoOperator.runtimeconfig.json
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoOperator\bin\Debug\net5.0\DemoOperator.runtimeconfig.dev.json
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoOperator\bin\Debug\net5.0\DemoOperator.dll
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoOperator\bin\Debug\net5.0\ref\DemoOperator.dll
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoOperator\bin\Debug\net5.0\DemoOperator.pdb
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoOperator\obj\Debug\net5.0\DemoOperator.csproj.AssemblyReference.cache
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoOperator\obj\Debug\net5.0\DemoOperator.GeneratedMSBuildEditorConfig.editorconfig
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoOperator\obj\Debug\net5.0\DemoOperator.AssemblyInfoInputs.cache
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoOperator\obj\Debug\net5.0\DemoOperator.AssemblyInfo.cs
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoOperator\obj\Debug\net5.0\DemoOperator.csproj.CoreCompileInputs.cache
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoOperator\obj\Debug\net5.0\DemoOperator.dll
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoOperator\obj\Debug\net5.0\ref\DemoOperator.dll
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoOperator\obj\Debug\net5.0\DemoOperator.pdb
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoOperator\obj\Debug\net5.0\DemoOperator.genruntimeconfig.cache

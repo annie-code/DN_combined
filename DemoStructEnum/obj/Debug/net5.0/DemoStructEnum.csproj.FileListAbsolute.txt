@@ -1,0 +1,16 @@
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoStructEnum\bin\Debug\net5.0\DemoStructEnum.exe
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoStructEnum\bin\Debug\net5.0\DemoStructEnum.deps.json
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoStructEnum\bin\Debug\net5.0\DemoStructEnum.runtimeconfig.json
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoStructEnum\bin\Debug\net5.0\DemoStructEnum.runtimeconfig.dev.json
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoStructEnum\bin\Debug\net5.0\DemoStructEnum.dll
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoStructEnum\bin\Debug\net5.0\ref\DemoStructEnum.dll
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoStructEnum\bin\Debug\net5.0\DemoStructEnum.pdb
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoStructEnum\obj\Debug\net5.0\DemoStructEnum.csproj.AssemblyReference.cache
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoStructEnum\obj\Debug\net5.0\DemoStructEnum.GeneratedMSBuildEditorConfig.editorconfig
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoStructEnum\obj\Debug\net5.0\DemoStructEnum.AssemblyInfoInputs.cache
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoStructEnum\obj\Debug\net5.0\DemoStructEnum.AssemblyInfo.cs
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoStructEnum\obj\Debug\net5.0\DemoStructEnum.csproj.CoreCompileInputs.cache
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoStructEnum\obj\Debug\net5.0\DemoStructEnum.dll
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoStructEnum\obj\Debug\net5.0\ref\DemoStructEnum.dll
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoStructEnum\obj\Debug\net5.0\DemoStructEnum.pdb
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoStructEnum\obj\Debug\net5.0\DemoStructEnum.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoConstructs\bin\Debug\net5.0\DemoConstructs.exe
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoConstructs\bin\Debug\net5.0\DemoConstructs.deps.json
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoConstructs\bin\Debug\net5.0\DemoConstructs.runtimeconfig.json
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoConstructs\bin\Debug\net5.0\DemoConstructs.runtimeconfig.dev.json
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoConstructs\bin\Debug\net5.0\DemoConstructs.dll
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoConstructs\bin\Debug\net5.0\ref\DemoConstructs.dll
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoConstructs\bin\Debug\net5.0\DemoConstructs.pdb
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoConstructs\obj\Debug\net5.0\DemoConstructs.GeneratedMSBuildEditorConfig.editorconfig
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoConstructs\obj\Debug\net5.0\DemoConstructs.AssemblyInfoInputs.cache
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoConstructs\obj\Debug\net5.0\DemoConstructs.AssemblyInfo.cs
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoConstructs\obj\Debug\net5.0\DemoConstructs.csproj.CoreCompileInputs.cache
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoConstructs\obj\Debug\net5.0\DemoConstructs.dll
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoConstructs\obj\Debug\net5.0\ref\DemoConstructs.dll
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoConstructs\obj\Debug\net5.0\DemoConstructs.pdb
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoConstructs\obj\Debug\net5.0\DemoConstructs.genruntimeconfig.cache

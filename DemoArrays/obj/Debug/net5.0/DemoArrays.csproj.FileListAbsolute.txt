@@ -1,0 +1,15 @@
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoArrays\bin\Debug\net5.0\DemoArrays.exe
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoArrays\bin\Debug\net5.0\DemoArrays.deps.json
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoArrays\bin\Debug\net5.0\DemoArrays.runtimeconfig.json
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoArrays\bin\Debug\net5.0\DemoArrays.runtimeconfig.dev.json
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoArrays\bin\Debug\net5.0\DemoArrays.dll
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoArrays\bin\Debug\net5.0\ref\DemoArrays.dll
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoArrays\bin\Debug\net5.0\DemoArrays.pdb
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoArrays\obj\Debug\net5.0\DemoArrays.GeneratedMSBuildEditorConfig.editorconfig
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoArrays\obj\Debug\net5.0\DemoArrays.AssemblyInfoInputs.cache
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoArrays\obj\Debug\net5.0\DemoArrays.AssemblyInfo.cs
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoArrays\obj\Debug\net5.0\DemoArrays.csproj.CoreCompileInputs.cache
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoArrays\obj\Debug\net5.0\DemoArrays.dll
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoArrays\obj\Debug\net5.0\ref\DemoArrays.dll
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoArrays\obj\Debug\net5.0\DemoArrays.pdb
+F:\ContentDevelopment\IIHT\CTS\ADM22DN012\DemoBasic\DemoArrays\obj\Debug\net5.0\DemoArrays.genruntimeconfig.cache
